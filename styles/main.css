@@ -15,6 +15,6 @@
 @import url('./components/modals.css');
 
 /* PAGES */
-@import url('./pages/home.css');
+@import url('./pages/index.css');
 @import url('./pages/auth.css');
 @import url('./pages/dashboard.css');
